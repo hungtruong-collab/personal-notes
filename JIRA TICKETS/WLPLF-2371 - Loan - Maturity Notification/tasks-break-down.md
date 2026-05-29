@@ -39,6 +39,8 @@ https://github.com/GalaxyFinX/account-service/pull/1341
 
 => Fixed
 
+=> Merged
+
 ### non-prod-application-workload
 
 - Declare topic for consumer in loan-management-service
@@ -55,6 +57,10 @@ https://github.com/GalaxyFinX/loan-management-service/pull/240
 
 => Fixed
 
+=> Merged
+
+CustomerLoanMaturityNotificationConsumer
+
 ### notification-service-v2
 
 - Add DML for notification content
@@ -63,6 +69,8 @@ https://github.com/GalaxyFinX/notification-service-v2/pull/644
 
 => Fixed
 
+=> Rollback
+
 ### non-prod-liquibase
 
 - Add DML for notification content
@@ -70,3 +78,5 @@ https://github.com/GalaxyFinX/notification-service-v2/pull/644
 https://github.com/GalaxyFinX/non-prod-liquibase/pull/606
 
 => Fixed
+
+=> Rollback
